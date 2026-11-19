@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,2A202603152,Da mo anh QC va so ca 21 box: xe ba gac/three_wheeler, person, motorbike va bicycle hop ly; khong thay bo sot, sai lop, vi tri kich thuoc rong bat thuong.
+img_006.jpg,,khong,2A202603152,Da mo anh QC va so ca 13 box: person, motorbike, bicycle, car va ignore_region hop ly; khong thay loi ro rang o tung vat.
+img_014.jpg,,khong,2A202603152,Da mo anh QC va so ca 16 box: person, motorbike va ignore_region khop tinh huong; khong thay box thua, sai lop hay box mat vat ro rang.
+img_031.jpg,,khong,2A202603152,Da mo anh QC va so ca 3 box: person, bicycle va nguoi ban hang duoc tach ro rang; khong thay loi bo sot hoac sai vi tri.
+img_035.jpg,,khong,2A202603152,Da mo anh QC va so ca 18 box: nhan person/motorbike/three_wheeler va vi tri box kha sat; khong thay loi ro rang tren mau QC.
